@@ -15,6 +15,16 @@
     animation: spin 60s 0s infinite linear;
 
 }
-.st1, .st0{
-   
-}
+body {
+    background: #9ca3e4;
+  }
+  
+  .container {
+    text-align:center;
+    padding: 20px 0px;
+  }
+  
+  #Clock {
+    height: 250px;
+    margin: auto;
+  }
